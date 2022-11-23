@@ -1,0 +1,61 @@
+header {
+  background-color: purple;
+  height: 200px;
+  width: 100%;
+}
+footer {
+  background-color: violet;
+  height: 200px;
+  width: 100%;
+}
+#row1cell1{
+  background-color: rgba(255, 0, 0, 1);
+}
+#row1cell2 {
+  background-color: rgba(248, 56, 255, 1);
+}
+#row1cell3 {
+  background-color: rgba(0, 0, 255, 1);
+}
+#row1cell4 {
+  background-color: rgba(0, 247, 255, 1);
+}
+
+#row2cell1 {
+  background-color: rgba(204, 0, 0, 0.8);
+}
+#row2cell2 {
+  background-color:rgba(199, 45, 204, 0.8);
+}
+#row2cell3 {
+  background-color: rgba(0, 0, 204, 0.8);
+}
+#row2cell4 {
+  background-color: rgba(0, 197, 204, 0.8);
+}
+
+#row3cell1 {
+  background-color: rgba(153, 0, 0, 0.6);
+}
+#row3cell2 {
+  background-color: rgba(149, 34, 153, 0.6);
+}
+#row3cell3 {
+  background-color: rgba(0, 0, 153, 0.6);
+}
+#row3cell4 {
+  background-color: rgba(0, 147, 153, 0.6);
+}
+
+#row4cell1 {
+  background-color: rgba(102, 0, 0, 0.4);
+}
+#row4cell2 {
+  background-color: rgba(99, 22, 102, 0.4);
+}
+#row4cell3 {
+  background-color: rgba(0, 0, 102, 0.4);
+}
+#row4cell4 {
+  background-color: rgba(0, 99, 102, 0.4);
+}
